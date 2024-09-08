@@ -1,5 +1,7 @@
 # intro-to-pyhton
+
 basic user_input.py file
+
 Create a new Python file and name it "user_input.py"
 Use the input() function to ask the user for their name and store it in a variable called "name".
 Use the input() function to ask the user for their age and store it in a variable called "age".
